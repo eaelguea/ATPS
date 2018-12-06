@@ -8,35 +8,59 @@ L: Reflect on the whole problem-solving process you went though, and state what 
 Problem 1:
   I: You are given two linked lists with two non-negative integers in reverse and each node contains a digit. Add the two lists together and return the sum as a linked list.
   D: Figure out exactly how this problem can be approached. How can I find a clean and efficient way to track the addition of the nodes? Can we have more than one digit in a node? Is the sum supposed to only be in one or spread out?
-  E, A: Step 1 -
+  E, A: Step 1 - 
         Step 2 - 
-        Step 3 -
+        Step 3 - 
         Step 4 - 
         Step 5 - 
         Step 6 - 
         Step 7 - 
-  L: 
-  
+  L: I was able to break down the problem and I learned that breaking it down and solving bit by bit can benefit to creating great code.
+
 Problem 2:
-  I:
-  D:
-  E, A:
-  L: 
-  
+  I: Given a string with any sequence of characters, find the length of the longest substring without any repeats in it.
+  D: Figure out exactly how this problem can be approached. How many base cases must I have to check for blanks or duplicates? Are all the characters supposed to be unique? What is considered a substring in this case?
+  E, A: Step 1 - 
+        Step 2 - 
+        Step 3 - 
+        Step 4 - 
+        Step 5 - 
+        Step 6 - 
+        Step 7 - 
+  L: I was able to break down the problem and I learned that breaking it down and solving bit by bit can benefit to creating great code.
+ 
 Problem 3:
-  I:
-  D:
-  E, A:
-  L:
-  
+  I: Create your version of the atoi program, which converts strings to integers. 
+  D: Figure out exactly how this problem can be approached. How long till the conversion is supposed to begin? Do special characters stop the conversion? Can numbers be mixed in with wordsm such as tr33 or w0rd5?
+  E, A: Step 1 - 
+        Step 2 - 
+        Step 3 - 
+        Step 4 - 
+        Step 5 - 
+        Step 6 - 
+        Step 7 - 
+  L: I was able to break down the problem and I learned that breaking it down and solving bit by bit can benefit to creating great code.
+
 Problem 4:
-  I:
-  D:
-  E, A:
-  L:
-  
+  I: You are given an integer value within the range of 1 to 3999. Your task is to convert the integer to a roman numeral.
+  D: Figure out exactly how this problem can be approached. Is it easier to automatically assign the numerical values to the roman numerals or take user input? Can we assume the libraries for strings and arrays are given? Which loop will fit better for the code?
+  E, A: Step 1 - 
+        Step 2 - 
+        Step 3 - 
+        Step 4 - 
+        Step 5 - 
+        Step 6 - 
+        Step 7 - 
+  L: I was able to break down the problem and I learned that breaking it down and solving bit by bit can benefit to creating great code.
+
 Problem 5:
-  I:
-  D:
-  E, A:
-  L:
+  I: You are given a grid of size m x n, that has no negative numbers. Your task is to find a path from the top left corner to the bottom right corner that minimizes the sum along the path. You can only move down or to the right. 
+  D: Figure out exactly how this problem can be approached. Can we user input for the grid? Would it be helpful to trace before coding? How would we keep track of each sum; is it required to replace each element we choose with that sum?
+  E, A: Step 1 - 
+        Step 2 - 
+        Step 3 - 
+        Step 4 - 
+        Step 5 - 
+        Step 6 - 
+        Step 7 - 
+  L: I was able to break down the problem and I learned that breaking it down and solving bit by bit can benefit to creating great code.
