@@ -7,9 +7,15 @@ L: Reflect on the whole problem-solving process you went though, and state what 
 
 Problem 1:
   I: You are given two linked lists with two non-negative integers in reverse and each node contains a digit. Add the two lists together and return the sum as a linked list.
-  D: Figure out exactly how this problem can be approached. How can I find a 
-  E, A:
-  L:
+  D: Figure out exactly how this problem can be approached. How can I find a clean and efficient way to track the addition of the nodes? Can we have more than one digit in a node? Is the sum supposed to only be in one or spread out?
+  E, A: Step 1 -
+        Step 2 - 
+        Step 3 -
+        Step 4 - 
+        Step 5 - 
+        Step 6 - 
+        Step 7 - 
+  L: 
   
 Problem 2:
   I:
