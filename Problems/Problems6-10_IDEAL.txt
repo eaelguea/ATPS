@@ -5,32 +5,62 @@ D: Define your goals; state the format of your solution
 E, A: Use Duke’s 7 steps and include a description on how you broke the problem into sub-problems.
 L: Reflect on the whole problem-solving process you went though, and state what you learned
 
-Problem 6:
+Problem 11:
   I:
-  D:
-  E, A:
-  L:
+  D: Figure out exactly how this problem can be approached.
+  E, A: Step 1 - 
+        Step 2 - 
+        Step 3 - 
+        Step 4 - 
+        Step 5 - 
+        Step 6 - 
+        Step 7 - 
+  L: I was able to break down the problem and I learned that breaking it down and solving bit by bit can benefit to creating great code.
   
-Problem 7:
+Problem 12:
   I:
-  D:
-  E, A:
-  L: 
+  D: Figure out exactly how this problem can be approached.
+  E, A: Step 1 - 
+        Step 2 - 
+        Step 3 - 
+        Step 4 - 
+        Step 5 - 
+        Step 6 - 
+        Step 7 - 
+  L: I was able to break down the problem and I learned that breaking it down and solving bit by bit can benefit to creating great code.
   
-Problem 8:
+Problem 13:
   I:
-  D:
-  E, A:
-  L:
+  D: Figure out exactly how this problem can be approached.
+  E, A: Step 1 - 
+        Step 2 - 
+        Step 3 - 
+        Step 4 - 
+        Step 5 - 
+        Step 6 - 
+        Step 7 - 
+  L: I was able to break down the problem and I learned that breaking it down and solving bit by bit can benefit to creating great code.
   
-Problem 9:
+Problem 14:
   I:
-  D:
-  E, A:
-  L:
+  D: Figure out exactly how this problem can be approached.
+  E, A: Step 1 - 
+        Step 2 - 
+        Step 3 - 
+        Step 4 - 
+        Step 5 - 
+        Step 6 - 
+        Step 7 - 
+  L: I was able to break down the problem and I learned that breaking it down and solving bit by bit can benefit to creating great code.
   
-Problem 10:
+Problem 15:
   I:
-  D:
-  E, A:
-  L:
+  D: Figure out exactly how this problem can be approached.
+  E, A: Step 1 - 
+        Step 2 - 
+        Step 3 - 
+        Step 4 - 
+        Step 5 - 
+        Step 6 - 
+        Step 7 - 
+  L: I was able to break down the problem and I learned that breaking it down and solving bit by bit can benefit to creating great code.
