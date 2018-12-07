@@ -5,7 +5,19 @@ D: Define your goals; state the format of your solution
 E, A: Use Duke’s 7 steps and include a description on how you broke the problem into sub-problems.
 L: Reflect on the whole problem-solving process you went though, and state what you learned
 
-Problem 11:
+Problem 6:
+  I: A string is displayed in a zigzag formation. Write a program that reads the string in the formation and creates a string depending on the number of rows. 
+  D: Figure out exactly how this problem can be approached. Does drawing out the problem make it more easier to understand? How many rows till it crashes? Can there be zero rows? Can we assume we have all libraries?
+  E, A: Step 1 - I wanted to attempt this problem because it seemed easier to do. I went and drawed out an example and tried to see how I can read these letters.
+        Step 2 - 
+        Step 3 - 
+        Step 4 - 
+        Step 5 - 
+        Step 6 - 
+        Step 7 - 
+  L: I was able to break down the problem and I learned that breaking it down and solving bit by bit can benefit to creating great code.
+  
+Problem 7:
   I:
   D: Figure out exactly how this problem can be approached.
   E, A: Step 1 - 
@@ -17,7 +29,7 @@ Problem 11:
         Step 7 - 
   L: I was able to break down the problem and I learned that breaking it down and solving bit by bit can benefit to creating great code.
   
-Problem 12:
+Problem 8:
   I:
   D: Figure out exactly how this problem can be approached.
   E, A: Step 1 - 
@@ -29,7 +41,7 @@ Problem 12:
         Step 7 - 
   L: I was able to break down the problem and I learned that breaking it down and solving bit by bit can benefit to creating great code.
   
-Problem 13:
+Problem 9:
   I:
   D: Figure out exactly how this problem can be approached.
   E, A: Step 1 - 
@@ -41,19 +53,7 @@ Problem 13:
         Step 7 - 
   L: I was able to break down the problem and I learned that breaking it down and solving bit by bit can benefit to creating great code.
   
-Problem 14:
-  I:
-  D: Figure out exactly how this problem can be approached.
-  E, A: Step 1 - 
-        Step 2 - 
-        Step 3 - 
-        Step 4 - 
-        Step 5 - 
-        Step 6 - 
-        Step 7 - 
-  L: I was able to break down the problem and I learned that breaking it down and solving bit by bit can benefit to creating great code.
-  
-Problem 15:
+Problem 10:
   I:
   D: Figure out exactly how this problem can be approached.
   E, A: Step 1 - 
