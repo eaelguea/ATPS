@@ -1,5 +1,5 @@
 public class P8GenerateParentheses {
-  public List<String> generateParenthesis(int n) {
+  public List<String> generateParentheses(int n) {
           List<String> l1 = new ArrayList();
           generate(l1, "", 0, 0, n);
           return l1;
