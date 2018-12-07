@@ -4,7 +4,7 @@ public class P9Power {
         x = 1 / x;
         n = -n;
     }
-    return fastPower1(x, n);
+    return power(x, n);
   }
 
   public static double power(double x, int n) {
