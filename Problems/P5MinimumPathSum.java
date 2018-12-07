@@ -1,4 +1,3 @@
-
 public class P5MinimumPathSum {
     public static int minPathSum(int[][] grid){
       	int row = grid.length;
