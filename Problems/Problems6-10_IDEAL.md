@@ -1,11 +1,11 @@
-## IDEAL for Leetcode Problems
+# IDEAL for Leetcode Problems
 
 - I: Re-state the problem with your own words
 - D: Define your goals; state the format of your solution
 - E, A: Use Duke’s 7 steps and include a description on how you broke the problem into sub-problems.
 - L: Reflect on the whole problem-solving process you went though, and state what you learned
 
-# Problem 6:
+## Problem 6:
   - I: A string is displayed in a zigzag formation. Write a program that reads the string in the formation and creates a string depending on the number of rows. 
   - D: Figure out exactly how this problem can be approached. Does drawing out the problem make it more easier to understand? How many rows till it crashes? Can there be zero rows? Can we assume we have all libraries?
   - E, A: Step 1 - I wanted to attempt this problem because it seemed easier to do. I went and drawed out an example and tried to see how I can read these letters.
@@ -17,7 +17,7 @@
         Step 7 - Used zero rows and returned no string. Wasn't sure if that was correct.
   - L: I was able to break down the problem and I learned that breaking it down and solving bit by bit can benefit to creating great code.
   
-# Problem 7:
+## Problem 7:
   - I: Given two integers n and k, return all possible combinations of k numbers out of the 1 to n range.
   - D: Figure out exactly how this problem can be approached. Lists have to be used, but how? Can we place everything in at once?
   - E, A: Step 1 - Create a new list that will store combinations of the two numbers.
@@ -29,7 +29,7 @@
         Step 7 - Used a zero for k. Crashed.
   - L: I was able to break down the problem and I learned that breaking it down and solving bit by bit can benefit to creating great code.
   
-# Problem 8:
+## Problem 8:
   - I: Given an integer of pairs, create a program that generates all combinations of parentheses.
   - D: Figure out exactly how this problem can be approached. 
   - E, A: Step 1 - Recursion could be used here and i didn't trust my ability to do one single method.
@@ -41,7 +41,7 @@
         Step 7 - The bigger n, the longer the program takes.
   - L: I was able to break down the problem and I learned that breaking it down and solving bit by bit can benefit to creating great code.
   
-# Problem 9:
+## Problem 9:
   - I: Given two integers, x which is a double value, and n a power, implement your version of the pow(x, n) method.
   - D: Figure out exactly how this problem can be approached.
   - E, A: Step 1 - There are two methods that have to deal with power: negative powers and positive powers. I wanted to used both and see where it would go.
@@ -53,7 +53,7 @@
         Step 7 - Tried large numbers: 10, 20. Program crashed due to long times taken. May have been able to make it more efficient.
   - L: I was able to break down the problem and I learned that breaking it down and solving bit by bit can benefit to creating great code.
   
-# Problem 10:
+## Problem 10:
   - I: Sort a linked list using insertion sort.
   - D: Figure out exactly how this problem can be approached.
   - E, A: Step 1 - I have done this problem before and have it saved from an in-class exercise in a previous course so I wanted to refresh.
