@@ -1,23 +1,23 @@
 public class P10InsertionSort {
-  public ListNode insertionSortList(ListNode ptr) {
-        if (ptr == null || ptr.next == null)
-            return ptr;
-        ListNode dummyHead = new ListNode(0);
-        dummyHead.next = ptr;
-        while (ptr != null && ptr.next != null) {
-            if (ptr.val > ptr.next.val) {
-                ListNode toInsert = ptr.next;
-                ListNode toInsertPre = dummyHead;
-                while (toInsertPre.next.val < toInsert.val) {
-                    toInsertPre = toInsertPre.next;
+  public ListNode insertionSort(ListNode head) {
+        if (head == null || head.next == null)
+            return head;
+        ListNode l1 = new ListNode(0);
+        l1.next = head;
+        while (head != null && head.next != null) {
+            if (head.val > head.next.val) {
+                ListNode curr = head.next;
+                ListNode prev = l1;
+                while (prev.next.val < curr.val) {
+                    prev = prev.next;
                 }
-                ptr.next = toInsert.next;
-                toInsert.next = toInsertPre.next;
-                toInsertPre.next = toInsert;
+                head.next = curr.next;
+                curr.next = prev.next;
+                prev.next = curr;
             } else {
-                ptr = ptr.next;
+                head = head.next;
             }
         }
-        return dummyHead.next;
+        return l1.next;
    }
 }
