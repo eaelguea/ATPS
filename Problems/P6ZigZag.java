@@ -1,3 +1,5 @@
+import java.util.*;
+
 public class P6ZigZag {
     public String convert(String s, int row) {
         if (row == 1) return s;
