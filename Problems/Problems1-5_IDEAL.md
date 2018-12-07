@@ -1,4 +1,4 @@
-IDEAL for Leetcode Problems
+-- IDEAL for Leetcode Problems --
 
 I: Re-state the problem with your own words
 D: Define your goals; state the format of your solution
