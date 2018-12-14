@@ -13,4 +13,4 @@ Assuming they both play optimally, return TRUE if and only if Alex will win.
   - For my solution, recursion was the main key for me to get through each possible case of scoring this game. I would utilize two methods: a boolean method that will return the desired result,
   and a void method; the void method will be where the recursive check and traversing of the piles array will be done. 
   I would also make variables of type int: one for Alex to keep track of her overall score, one for Lee to keep track of his score, ones for the front and back to help go through each pile,
-  and a boolean array that is storing the true/false result and will change in the boolean method depending on the game scoring.
+  and a boolean array that is storing the true/false result and will change in the boolean method depending on the game scoring. My proposed solutin would show the basic depth first style of recursion of picking from left or right of the piles array, and goes through all possible ways.
