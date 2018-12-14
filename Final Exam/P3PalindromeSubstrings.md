@@ -4,7 +4,7 @@
     - Given a string, count the number of palindromes that this string has. Note: substrings with different start or end indexes are counted as different substrings
     even though they do contain the same characters.
   - Define solution (recursively)
-  
+    - For this problem, I wanted to not only utilize recursion, but find a much easier way
  
  
  
