@@ -9,4 +9,7 @@
     squares it takes to get the given n. This value is stored in dp[i], with i representing the integer n. Once all numbers up
     to n are checked, dp[n] must be returned as it has the overall minimum of all subproblems.   
 ## Step 2
-  - 
+  - For a proposed solution, I would create one single method with n as a parameter. A dp integer array will be where i store
+  the minimum number of squares everytime we check a number from 0 to n. After every subproblem of finding the min number of
+  squares for each number up to n, we compare and combine each and once the max is found using Math.min, we store i in dp[n]
+  which represents the number of squares for the given n.
