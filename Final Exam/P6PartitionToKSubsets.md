@@ -12,4 +12,8 @@
     subsets. We proceed only if k divides the sum. Our goal is to try and reduce and divide the array into k parts where the 
     sum of each part should be sum/k.
 ## Step 2
-  - 
+  - For a proposed solution, I would create two recursive methods of type boolean, where we try to add an array element into 
+  some subset. If the sum of this subset reaches the required matching sum, we iterate for the next part recursively, 
+  otherwise we backtrack for the next set of elements that may get the equal sum. If the number of subsets found, and whose 
+  sum matches the other sums, is (k-1), we call our other method that flags it is possible to partition the array into K parts 
+  with equal sums, because all the remaining elements already have the same sum as the other subsets.
